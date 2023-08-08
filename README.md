@@ -1,2 +1,2 @@
 # RepositorioHenry
-Creación de repositorio Henry homework. Ejercicio 1
+Creación de repositorio Henry. Homework
